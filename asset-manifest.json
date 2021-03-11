@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jaliuson/Ivey-Design-Project/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/jaliuson/Ivey-Design-Project/static/js/main.77f88d6f.chunk.js",
+    "main.js.map": "/jaliuson/Ivey-Design-Project/static/js/main.77f88d6f.chunk.js.map",
+    "runtime-main.js": "/jaliuson/Ivey-Design-Project/static/js/runtime-main.996d9a00.js",
+    "runtime-main.js.map": "/jaliuson/Ivey-Design-Project/static/js/runtime-main.996d9a00.js.map",
+    "static/js/2.f72e47ff.chunk.js": "/jaliuson/Ivey-Design-Project/static/js/2.f72e47ff.chunk.js",
+    "static/js/2.f72e47ff.chunk.js.map": "/jaliuson/Ivey-Design-Project/static/js/2.f72e47ff.chunk.js.map",
+    "static/js/3.b6d59191.chunk.js": "/jaliuson/Ivey-Design-Project/static/js/3.b6d59191.chunk.js",
+    "static/js/3.b6d59191.chunk.js.map": "/jaliuson/Ivey-Design-Project/static/js/3.b6d59191.chunk.js.map",
+    "index.html": "/jaliuson/Ivey-Design-Project/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/jaliuson/Ivey-Design-Project/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f72e47ff.chunk.js.LICENSE.txt": "/jaliuson/Ivey-Design-Project/static/js/2.f72e47ff.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jaliuson/Ivey-Design-Project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.996d9a00.js",
+    "static/js/2.f72e47ff.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.77f88d6f.chunk.js"
+  ]
+}
